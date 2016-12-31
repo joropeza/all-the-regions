@@ -4,6 +4,15 @@
   "description": "every United Nations-designated region and subregion with all their countries in a nice neat hash",
   "main": "index.js",
   "scripts": {},
-  "author": "",
-  "license": "ISC"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joropeza/all-the-regions.git"
+  },
+  "author": "Jon Oropeza <joropeza@gmail.com> (http://jonoropeza.com/)",
+  "keywords": [
+    "world",
+    "geography",
+    "regions"
+  ]
 }
