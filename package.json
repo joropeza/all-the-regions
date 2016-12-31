@@ -1,0 +1,9 @@
+{
+  "name": "all-the-regions",
+  "version": "1.0.0",
+  "description": "every United Nations-designated region and subregion with all their countries in a nice neat hash",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
