@@ -3,5 +3,5 @@ node_js:
   - "node"
 deploy:
   provider: npm
-  email: joropeza@gmail.com
+  email: $EMAIL
   api_key: $NPM_TOKEN
